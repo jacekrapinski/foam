@@ -54,6 +54,9 @@ This project presents a simulation study designed to validate FOAM (Function-Ori
 ### Built With
 
 * [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+* [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+* [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
+* [![Statsmodels](https://img.shields.io/badge/Statsmodels-4B6C8C?logo=python&logoColor=white)](https://www.statsmodels.org/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
