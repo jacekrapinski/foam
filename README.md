@@ -60,11 +60,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
-
+This project presents a simulation study designed to validate FOAM (Function-Oriented Assessment Methodology), a function-based approach for assessing the condition of construction elements systems. The study systematically explores the methodological implications of applying FOAM across 2,187 controlled inspection scenarios. These scenarios combine variations in six key parameters: degradation pattern, element heterogeneity, and sample size (related to the population); and inspector variability, inspector bias, and inspection frequency (related to the inspection). The aim is to evaluate how these factors influence the estimated Functional Condition Index (FCI) and the overall consistency and robustness of the FOAM approach.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
