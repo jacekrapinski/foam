@@ -2,7 +2,7 @@
 
 [![Contributors](https://img.shields.io/github/contributors/jacekrapinski/foam?color=blue)](CONTRIBUTORS)
 
-[![View the License](https://img.shields.io/github/LICENSE/jacekrapinski/foam?color=blue)](LICENSE)
+[![View the License](https://img.shields.io/github/license/jacekrapinski/foam?color=blue)](LICENSE)
 
 
 <!-- PROJECT LOGO -->
