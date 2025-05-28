@@ -1,8 +1,9 @@
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][CONTRIBUTORS]
 [![project_license][license-shield]](LICENSE)
-[Link Text](relative/path/to/file.ext)
+
+
 
 
 <!-- PROJECT LOGO -->
