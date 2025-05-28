@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![project_license][license-shield]][license-url]
+[![project_license][license-shield]][LICENSE]
 
 
 
