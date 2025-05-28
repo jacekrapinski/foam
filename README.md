@@ -154,9 +154,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Analysis of classification systems for the built environment: Historical perspective, comprehensive review and discussion , by Veronica Royano et al ; published in 2023 .
+* Royano, V., Gibert, V., Serrat, C., & Rapinski, J. (2024). Toward an innovative function-oriented assessment methodology (FOAM) for evaluating the functional condition of buildings during the operation and maintenance phase. Developments in the Built Environment, 20, 100548.
+* The project was financed under the first competition of the INNOGLOBO Program announced by NCBR and is being implemented at the Institute of Geodesy and Civil Engineering at the Faculty of Geoengineering of the University of Warmia and Mazury in Olsztyn in consortium with the Department of Architectural Technology, Barcelona School of Building Construction (EPSEB), Universitat Politècnica de Catalunya BarcelonaTech (UPC).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
