@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-[![Contributors](https://img.shields.io/github/contributors/OWNER/REPO?color=blue)](CONTRIBUTORS)
+[![Contributors](https://img.shields.io/github/contributors/jacekrapinski/foam?color=blue)](CONTRIBUTORS)
 
 [View the License](LICENSE)
 
