@@ -1,9 +1,8 @@
 <a id="readme-top"></a>
 
-[Contributors][CONTRIBUTORS]
-[project_license][LICENSE]
+[Contributors](CONTRIBUTORS)
 
-
+[View the License](LICENSE)
 
 
 <!-- PROJECT LOGO -->
